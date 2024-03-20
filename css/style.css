@@ -26,7 +26,7 @@
 }
 
 #main-navbar ul li a {
-  display:block;
+  display: block;
   padding: 10px 20px;
   color: #fff;
   text-decoration: none;
@@ -38,7 +38,7 @@
   background-color: #000;
 }
 
-#main-navbar #onpage {
+#onpage {
   text-decoration: underline overline;
 }
 
