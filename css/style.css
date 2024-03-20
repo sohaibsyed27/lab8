@@ -30,6 +30,8 @@
   padding: 10px 20px;
   color: #fff;
   text-decoration: none;
+  font-style:italic;
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 
 #main-navbar ul li a:hover {
@@ -39,3 +41,4 @@
 #main-navbar #onpage {
   text-decoration: underline overline;
 }
+
