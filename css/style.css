@@ -24,3 +24,18 @@
   right: 50%;
   display: block;
 }
+
+#main-navbar ul li a {
+  display:block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+}
+
+#main-navbar ul li a:hover {
+  background-color: #000;
+}
+
+#main-navbar #onpage {
+  text-decoration: underline overline;
+}
